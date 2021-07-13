@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/mrwhite252/music-app-demo/static/css/main.82279b95.chunk.css",
+    "main.js": "/github.io/mrwhite252/music-app-demo/static/js/main.b10e6310.chunk.js",
+    "main.js.map": "/github.io/mrwhite252/music-app-demo/static/js/main.b10e6310.chunk.js.map",
+    "runtime-main.js": "/github.io/mrwhite252/music-app-demo/static/js/runtime-main.cc441a22.js",
+    "runtime-main.js.map": "/github.io/mrwhite252/music-app-demo/static/js/runtime-main.cc441a22.js.map",
+    "static/js/2.25182f38.chunk.js": "/github.io/mrwhite252/music-app-demo/static/js/2.25182f38.chunk.js",
+    "static/js/2.25182f38.chunk.js.map": "/github.io/mrwhite252/music-app-demo/static/js/2.25182f38.chunk.js.map",
+    "static/js/3.b935e084.chunk.js": "/github.io/mrwhite252/music-app-demo/static/js/3.b935e084.chunk.js",
+    "static/js/3.b935e084.chunk.js.map": "/github.io/mrwhite252/music-app-demo/static/js/3.b935e084.chunk.js.map",
+    "index.html": "/github.io/mrwhite252/music-app-demo/index.html",
+    "static/css/main.82279b95.chunk.css.map": "/github.io/mrwhite252/music-app-demo/static/css/main.82279b95.chunk.css.map",
+    "static/js/2.25182f38.chunk.js.LICENSE.txt": "/github.io/mrwhite252/music-app-demo/static/js/2.25182f38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc441a22.js",
+    "static/js/2.25182f38.chunk.js",
+    "static/css/main.82279b95.chunk.css",
+    "static/js/main.b10e6310.chunk.js"
+  ]
+}
